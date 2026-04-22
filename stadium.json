@@ -1,0 +1,307 @@
+{
+"count": 30,
+"next": null,
+"previous": null,
+"results": [
+{
+"team": "Arizona Diamondbacks",
+"stadium": "Chase Field",
+"latitude": 33.4455,
+"longitude": -112.0667,
+"capacity": 48519,
+"opened": 1998,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Arizona_Diamondbacks_logo.svg/1280px-Arizona_Diamondbacks_logo.svg.png",
+"stadiumImage": "https://www.tripsavvy.com/thmb/od6JvhrPsX0wRR52OFN6Us8tvVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chasefieldexterior_1500-579ba76a3df78c32766186d0.jpg"
+},
+{
+"team": "Atlanta Braves",
+"stadium": "Truist Park",
+"latitude": 33.8907,
+"longitude": -84.4677,
+"capacity": 41084,
+"opened": 2017,
+"logo": "https://p7.hiclipart.com/preview/475/42/576/atlanta-braves-mlb-arizona-diamondbacks-chicago-cubs-boston-red-sox-braves-logo.jpg",
+"stadiumImage": "https://www.clipartmax.com/png/middle/435-4351802_600-x-403-9-transparent-atlanta-braves-logo.png"
+},
+{
+"team": "Baltimore Orioles",
+"stadium": "Oriole Park at Camden Yards",
+"latitude": 39.2839,
+"longitude": -76.6217,
+"capacity": 45971,
+"opened": 1992,
+"logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Baltimore_Orioles_cap.svg/1280px-Baltimore_Orioles_cap.svg.png",
+"stadiumImage": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Camden_Yards_entrance.JPG"
+},
+{
+"team": "Boston Red Sox",
+"stadium": "Fenway Park",
+"latitude": 42.3467,
+"longitude": -71.0972,
+"capacity": 37755,
+"opened": 1912,
+"logo": "https://cdn.freebiesupply.com/images/large/2x/boston-red-sox-logo-transparent.png",
+"stadiumImage": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/boston/Fenway-Tours_3E4C9386-E8C4-4F44-C0B3A1B764CA69FC-3e4c7dea05b161d_3e4ce9ea-de1c-1d0b-77296a350e78e5c3.png"
+},
+{
+"team": "Chicago Cubs",
+"stadium": "Wrigley Field",
+"latitude": 41.9484,
+"longitude": -87.6553,
+"capacity": 41649,
+"opened": 1914,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/1280px-Chicago_Cubs_logo.svg.png",
+"stadiumImage": "https://thumbs.dreamstime.com/b/entrance-chicago-cubs-wrigley-field-outside-mlb-baseball-team-il-usa-79745210.jpg"
+},
+{
+"team": "Chicago White Sox",
+"stadium": "Guaranteed Rate Field",
+"latitude": 41.83,
+"longitude": -87.6338,
+"capacity": 40615,
+"opened": 1991,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/500px-Chicago_White_Sox.svg.png",
+"stadiumImage": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1536/mlb/yphc4xj5toflt9jyxaor.jpg"
+},
+{
+"team": "Cincinnati Reds",
+"stadium": "Great American Ball Park",
+"latitude": 39.0979,
+"longitude": -84.5081,
+"capacity": 42319,
+"opened": 2003,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cincinnati_Reds_Logo.svg/1280px-Cincinnati_Reds_Logo.svg.png",
+"stadiumImage": "https://stadiumandarenavisits.com/wp-content/uploads/2021/08/great-american-ball-park-7.jpg"
+},
+{
+"team": "Cleveland Guardians",
+"stadium": "Progressive Field",
+"latitude": 41.4962,
+"longitude": -81.6852,
+"capacity": 34830,
+"opened": 1994,
+"logo": "https://1000logos.net/wp-content/uploads/2017/12/Cleveland-Guardians-Logo.png",
+"stadiumImage": "https://ballparkeguides.com/wp-content/uploads/2022/12/Progressive-Field-Front-Entrance.jpg"
+},
+{
+"team": "Colorado Rockies",
+"stadium": "Coors Field",
+"latitude": 39.7559,
+"longitude": -104.9942,
+"capacity": 50144,
+"opened": 1995,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Colorado_Rockies_logo.svg/1920px-Colorado_Rockies_logo.svg.png",
+"stadiumImage": "https://blog.ticketmaster.com/wp-content/uploads/step-inside-coors-field.png"
+},
+{
+"team": "Detroit Tigers",
+"stadium": "Comerica Park",
+"latitude": 42.339,
+"longitude": -83.0485,
+"capacity": 41083,
+"opened": 2000,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Detroit_Tigers_logo.svg/1920px-Detroit_Tigers_logo.svg.png",
+"stadiumImage": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/fdkge0sbkx8hynu1ev6y.jpg"
+},
+{
+"team": "Houston Astros",
+"stadium": "Daikin Park",
+"latitude": 29.7573,
+"longitude": -95.3555,
+"capacity": 41168,
+"opened": 2000,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Houston_astros_logo.png",
+"stadiumImage": "https://thisgreatgame.com/wp-content/uploads/2020/07/mmp-rfgate.jpg"
+},
+{
+"team": "Kansas City Royals",
+"stadium": "Kauffman Stadium",
+"latitude": 39.0517,
+"longitude": -94.4803,
+"capacity": 37903,
+"opened": 1973,
+"logo": "https://cdn.freebiesupply.com/images/large/2x/kansas-city-royals-logo-transparent.png",
+"stadiumImage": "https://live.staticflickr.com/231/458408655_eddecc51b9_b.jpg"
+},
+{
+"team": "Los Angeles Angels",
+"stadium": "Angel Stadium",
+"latitude": 33.8003,
+"longitude": -117.8827,
+"capacity": 45517,
+"opened": 1966,
+"logo": "https://logos-world.net/wp-content/uploads/2020/05/Los-Angeles-Angels-Logo.png",
+"stadiumImage": "https://metrolinktrains.com/globalassets/explore/orange/mlb.com.jpeg"
+},
+{
+"team": "Los Angeles Dodgers",
+"stadium": "Dodger Stadium",
+"latitude": 34.0739,
+"longitude": -118.24,
+"capacity": 56000,
+"opened": 1962,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Los_Angeles_Dodgers_Logo.svg/3840px-Los_Angeles_Dodgers_Logo.svg.png",
+"stadiumImage": "https://cache.undercovertourist.com/blog/2023/07/0723-dodger-stadium.jpg"
+},
+{
+"team": "Miami Marlins",
+"stadium": "loanDepot park",
+"latitude": 25.7781,
+"longitude": -80.2197,
+"capacity": 36742,
+"opened": 2012,
+"logo": "https://www.vhv.rs/dpng/d/518-5185775_image-result-for-miami-marlins-logo-png-miami.png",
+"stadiumImage": "https://thisgreatgame.com/wp-content/uploads/2021/07/ldp-mainentry.jpg"
+},
+{
+"team": "Milwaukee Brewers",
+"stadium": "American Family Field",
+"latitude": 43.028,
+"longitude": -87.9712,
+"capacity": 41900,
+"opened": 2001,
+"logo": "https://1000logos.net/wp-content/uploads/2018/03/Milwaukee-Brewers-Logo.png",
+"stadiumImage": "https://ewscripps.brightspotcdn.com/dims4/default/bcbfb89/2147483647/strip/true/crop/1220x686+0+59/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F1c%2F07%2F8580c60e433eb5328d7131be2b18%2Famfamfield.png"
+},
+{
+"team": "Minnesota Twins",
+"stadium": "Target Field",
+"latitude": 44.9817,
+"longitude": -93.2776,
+"capacity": 38544,
+"opened": 2010,
+"logo": "https://cdn.freebiesupply.com/images/large/2x/minnesota-twins-logo-transparent.png",
+"stadiumImage": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w640/mlb/aymnu2buojqqou175asn.jpg"
+},
+{
+"team": "New York Mets",
+"stadium": "Citi Field",
+"latitude": 40.7571,
+"longitude": -73.8458,
+"capacity": 41922,
+"opened": 2009,
+"logo": "https://cdn.freebiesupply.com/images/large/2x/new-york-mets-logo-transparent.png",
+"stadiumImage": "https://img.mlbstatic.com/mlb-images/image/private/t_5x2/t_w2208/mlb/khuu0xbj489lfpkncwaj.jpg"
+},
+{
+"team": "New York Yankees",
+"stadium": "Yankee Stadium",
+"latitude": 40.8296,
+"longitude": -73.9262,
+"capacity": 46537,
+"opened": 2009,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/New_York_Yankees_logo.svg/1920px-New_York_Yankees_logo.svg.png",
+"stadiumImage": "https://populous.com/uploads/2018/01/NYYMLBP_0171_Esto.jpg"
+},
+{
+"team": "Athletics",
+"stadium": "Sutter Health Park",
+"latitude": 38.5804,
+"longitude": -121.5138,
+"capacity": 14014,
+"opened": 2000,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/3840px-Oakland_A%27s_logo.svg.png",
+"stadiumImage": "https://sacramento365.com/wp-content/uploads/sites/sacramento365.com/images/2019/11/Sutter-Health-Park.jpg"
+},
+{
+"team": "Philadelphia Phillies",
+"stadium": "Citizens Bank Park",
+"latitude": 39.9061,
+"longitude": -75.1665,
+"capacity": 42792,
+"opened": 2004,
+"logo": "https://cdn.freebiesupply.com/images/thumbs/2x/philadelphia-phillies-logo.png",
+"stadiumImage": "https://media.phillyvoice.com/media/images/81723_Phillies_Facial_Recognition.2e16d0ba.fill-735x490.jpg"
+},
+{
+"team": "Pittsburgh Pirates",
+"stadium": "PNC Park",
+"latitude": 40.4469,
+"longitude": -80.0057,
+"capacity": 38362,
+"opened": 2001,
+"logo": "https://1000logos.net/wp-content/uploads/2018/05/Pittsburgh-Pirates-Logo.png",
+"stadiumImage": ""
+},
+{
+"team": "San Diego Padres",
+"stadium": "Petco Park",
+"latitude": 32.7073,
+"longitude": -117.1566,
+"capacity": 40209,
+"opened": 2004,
+"logo": "https://logodownload.org/wp-content/uploads/2020/10/san-diego-padres-logo-1.png",
+"stadiumImage": "https://www.ballparksofbaseball.com/wp-content/uploads/2016/03/petco13951.jpg"
+},
+{
+"team": "San Francisco Giants",
+"stadium": "Oracle Park",
+"latitude": 37.7786,
+"longitude": -122.3893,
+"capacity": 41915,
+"opened": 2000,
+"logo": "https://brandlogos.net/wp-content/uploads/2022/06/san_francisco_giants-logo_brandlogos.net_w8paf.png",
+"stadiumImage": "https://images.squarespace-cdn.com/content/v1/5c521727e2ccd10889a91b30/1582767120347-KVR34ONJO8HDZNQ7UYLE/IMG_7760-fixcrop.jpg"
+},
+{
+"team": "Seattle Mariners",
+"stadium": "T-Mobile Park",
+"latitude": 47.5914,
+"longitude": -122.3325,
+"capacity": 47929,
+"opened": 1999,
+"logo": "https://logodownload.org/wp-content/uploads/2020/10/seattle-mariners-logo-0.png",
+"stadiumImage": "https://komonews.com/resources/media2/16x9/4320/986/0x225/90/3a124ab3-4e5e-45fa-ad9b-446d5d7c5ff7-TMobileParkLeftFieldGate.JPG"
+},
+{
+"team": "St. Louis Cardinals",
+"stadium": "Busch Stadium",
+"latitude": 38.6226,
+"longitude": -90.1928,
+"capacity": 45494,
+"opened": 2006,
+"logo": "https://logodownload.org/wp-content/uploads/2020/10/st-louis-cardinals-logo-1.png",
+"stadiumImage": "https://stadium-insiders-storage.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/06/20102551/St-Louis-Cardinals-Busch-Stadium-Guide-scaled.jpg"
+},
+{
+"team": "Tampa Bay Rays",
+"stadium": "Tropicana Field",
+"latitude": 27.7682,
+"longitude": -82.6534,
+"capacity": 25025,
+"opened": 1990,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tampa_Bay_Rays_Logo.svg/1280px-Tampa_Bay_Rays_Logo.svg.png",
+"stadiumImage": "https://npr.brightspotcdn.com/47/85/31336f5a4211b6eeedb34fd2af32/tropicana-field-exterior-gate-1.jpg"
+},
+{
+"team": "Texas Rangers",
+"stadium": "Globe Life Field",
+"latitude": 32.7473,
+"longitude": -97.0847,
+"capacity": 40300,
+"opened": 2020,
+"logo": "https://logos-world.net/wp-content/uploads/2020/05/Texas-Rangers-Symbol.png",
+"stadiumImage": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/arlington/20200312_GLF_3BL_86660-f921f192f6a61c0_f921f362-e1ad-7b74-fcbf1f74a2271053.jpg"
+},
+{
+"team": "Toronto Blue Jays",
+"stadium": "Rogers Centre",
+"latitude": 43.6414,
+"longitude": -79.3894,
+"capacity": 49286,
+"opened": 1989,
+"logo": "https://logodownload.org/wp-content/uploads/2020/10/toronto-blue-jays-logo.png",
+"stadiumImage": "https://snadisplays.com/wp-content/uploads/SNA-Rogers-Centre-Gardiner-Gallery-4.jpg"
+},
+{
+"team": "Washington Nationals",
+"stadium": "Nationals Park",
+"latitude": 38.873,
+"longitude": -77.0074,
+"capacity": 41339,
+"opened": 2008,
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Washington_Nationals_logo.svg/1280px-Washington_Nationals_logo.svg.png",
+"stadiumImage": "https://www.popville.com/wp-content/uploads/2022/04/opening-day-popville.jpg"
+}
+]
+}
